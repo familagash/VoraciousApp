@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/VoraciousApp/static/css/main.61526f05.chunk.css",
+    "main.js": "/VoraciousApp/static/js/main.8bf76c51.chunk.js",
+    "main.js.map": "/VoraciousApp/static/js/main.8bf76c51.chunk.js.map",
+    "runtime-main.js": "/VoraciousApp/static/js/runtime-main.7ec51ed1.js",
+    "runtime-main.js.map": "/VoraciousApp/static/js/runtime-main.7ec51ed1.js.map",
+    "static/js/2.619e8fa0.chunk.js": "/VoraciousApp/static/js/2.619e8fa0.chunk.js",
+    "static/js/2.619e8fa0.chunk.js.map": "/VoraciousApp/static/js/2.619e8fa0.chunk.js.map",
+    "static/js/3.78e61d75.chunk.js": "/VoraciousApp/static/js/3.78e61d75.chunk.js",
+    "static/js/3.78e61d75.chunk.js.map": "/VoraciousApp/static/js/3.78e61d75.chunk.js.map",
+    "index.html": "/VoraciousApp/index.html",
+    "static/css/main.61526f05.chunk.css.map": "/VoraciousApp/static/css/main.61526f05.chunk.css.map",
+    "static/js/2.619e8fa0.chunk.js.LICENSE.txt": "/VoraciousApp/static/js/2.619e8fa0.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/VoraciousApp/static/media/background_search_mobile.9e607f23.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ec51ed1.js",
+    "static/js/2.619e8fa0.chunk.js",
+    "static/css/main.61526f05.chunk.css",
+    "static/js/main.8bf76c51.chunk.js"
+  ]
+}
